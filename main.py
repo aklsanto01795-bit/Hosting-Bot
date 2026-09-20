@@ -42,10 +42,10 @@ def keep_alive():
 # --- Configuration ---
 TOKEN = "8856143574:AAG4rTT1vGBTmjY8epmex46uaYH5mTbzKWw"
 OWNER_ID = 8889726455
-ADMIN_ID = 6442375982
+ADMIN_ID = 8889726455
 YOUR_USERNAME = "@ModderSanto"
 UPDATE_CHANNEL = "https://t.me/ModderSanto_Official"
-UPLOAD_LOG_CHANNEL = "@all0notification" # ফাইল আপলোড নোটিফিকেশন চ্যানেল
+UPLOAD_LOG_CHANNEL = "@all0notificatio66n" # ফাইল আপলোড নোটিফিকেশন চ্যানেল
 
 MAX_FILE_SIZE_MB = 20 # [CRASH PROTECTION] Maximum file size allowed to prevent memory/disk exhaustion
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
