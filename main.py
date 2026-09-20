@@ -24,7 +24,7 @@ app = Flask("")
 
 @app.route("/")
 def home():
-    return "I'm Mukesh File Host - Running Successfully"
+    return "I'm CHS File Host - Running Successfully"
 
 def run_flask():
     try:
@@ -40,7 +40,7 @@ def keep_alive():
     print("Flask Keep-Alive server started.")
 
 # --- Configuration ---
-TOKEN = "8856143574:AAH4GAJcxc3g0JaiGn7w3bp3EBQvoQxPOqg"
+TOKEN = "8856143574:AAGSqKaNzIVFE_hUqotBuvgsl4q19gunE2Y"
 OWNER_ID = 8889726455
 ADMIN_ID = 6442375982
 YOUR_USERNAME = "@ModderSanto"
