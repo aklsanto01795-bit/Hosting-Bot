@@ -2209,8 +2209,8 @@ def handle_text_messages(message):
 # Keep these values after the main code as requested.
 # Replace only the two placeholders below.
 # =====================================================================
-SECOND_BOT_TOKEN = "8822464188:AAFicuqgPX_hEnXF8QeAuALLuxG7HM27uhQ"
-SECOND_ADMIN_ID = 8814363793
+SECOND_BOT_TOKEN = "8856143574:AAG4rTT1vGBTmjY8epmex46uaYH5mTbzKWw"
+SECOND_ADMIN_ID = 8889726455
 
 APPROVAL_ADMIN_IDS = {int(OWNER_ID), int(ADMIN_ID)}
 if SECOND_ADMIN_ID:
